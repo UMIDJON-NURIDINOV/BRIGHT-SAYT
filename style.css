@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.u{
+    width: 100%;
+    height: 70px;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    color: gray;
+}
+.u ul{
+    width: 40%;
+    justify-content: space-between;
+    list-style: none;
+    display: flex;
+}
+.u .u2{
+    color: blue;
+}
+.u .u1{
+    width: 2.5%;
+    height: 25px;
+    background-color: blue;
+    color: white;
+    border-radius: 50%;
+    padding: 5px 9px ;
+}
+.u3{
+    width: 100%;
+    height: 400px;
+    background-image: url(./img/Без\ названия.jpg);
+    color: white;
+}
+.u3 h3{
+    text-align: center;
+    color: gray;
+}
+.u3 h1{
+    width: 34%;
+    margin-left: 33%;
+}
+.u3 button{
+    width: 12%;
+    height: 42px;
+    background-color: blue;
+    border: none;
+    color: white;
+    margin-left: 41%;
+}
+.u4{
+    position: absolute;
+    margin-left: -51%;
+    font-size: 60px;
+    margin-top: -9%;
+    color: gray;
+}
+.u5{
+    position: absolute;
+    margin-left: 44%;
+    font-size: 60px;
+    margin-top: -9%;
+    color: gray;
+}
+.u6{
+    width: 100%;
+    height: 560px;
+    background-image: url(./img/Без\ названия\ \(1\).jpg);
+}
+.u6 h1{
+    width: 66%;
+    margin-left: 24%;
+}
+.u7{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.u8{
+    width: 32%;
+    height: 210px;
+    border: 1px solid blue;
+    border-radius: 2%;
+}
+.u8 button{
+    width: 20%;
+    height: 35px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5%;
+    margin-left: 41%;
+}
+.u8 p{
+    color: gray;
+    margin-left: 5%;
+}
+.u9{
+    background-color: white;
+    border: none;
+    border-radius: 2%;
+}
+.u10{
+    width: 90%;
+    height: 500px;
+    background-color: white;
+    margin-left: 5%;
+    margin-top: -7%;
+}
+.u10 h1{
+    margin-left: 5%;
+}
+.u10 h4{
+    color: gray;
+    margin-left: 5%;
+}
+.u11{
+    width: 100%;
+    display: flex;
+}
+.u12{
+    display:flex;
+}
+.u14{
+    position: absolute;
+    margin-left: 60%;
+    margin-top: 4%;
+}
+.u13{
+    width:23%;
+    margin-left: 8%;
+}
+.u13 p{
+    margin-left: 6%;
+}
+.u20{
+    position:relative;
+    width: 23%;
+}
+.u21{
+    width: 23%;
+    position: relative;
+    margin: -9.6% 39%;
+}
+.u13 p{
+    color: gray;
+}
